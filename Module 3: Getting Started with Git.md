@@ -36,23 +36,6 @@
 * Download Git from: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 * Run the installer, accepting default settings for simplicity.
 
-**Linux (Ubuntu/Debian):**
-
-```bash
-sudo apt update
-sudo apt install git
-```
-
-**MacOS:**
-
-* Using Homebrew (recommended):
-
-```bash
-brew install git
-```
-
-* Or download from: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
-
 ---
 
 ## 🔖 **Git Configuration**
